@@ -2,8 +2,8 @@ I am an Experimental Physics student with strong communication, organizational a
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaismartins&count_private=true&show_icons=true&theme=merko&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaismartins)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaismartins)
 
 Other Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slv-rhat&repo=INFOMDA1-2022)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slv-rhat&repo=INFOMDA1-2022)](https://github.com/slv-rhat/INFOMDA1-2022)
