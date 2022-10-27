@@ -2,7 +2,7 @@ I am an Experimental Physics student with strong communication, organizational a
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaismartins&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaismartin&include_all_commits=trues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaismartins&include_all_commits=true)
 
 Other Repositories I contribute to!:
 
